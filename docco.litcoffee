@@ -291,7 +291,7 @@ Build out the appropriate matchers and delimiters for each language.
 
 Does the line begin with a comment?
 
-        l.commentMatcher = ///^\s*#{l.symbol}\s?///
+        l.commentMatcher = ///^#{l.symbol}\s?///
 
 Ignore [hashbangs](http://en.wikipedia.org/wiki/Shebang_%28Unix%29) and interpolations...
 
