@@ -1,4 +1,5 @@
 {
+  "private": true,
   "name":         "docco",
   "description":  "The Quick and Dirty Literate Programming Documentation Generator",
   "keywords":     ["documentation", "docs", "generator", "literate", "coffeescript"],
